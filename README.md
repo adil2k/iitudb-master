@@ -1,12 +1,8 @@
-Erkinbay Zhanbolat and Kaliyev Adil 
+Erkinbay Zhanbolat and Kaliyev Adil (teamwork)
 
 CSSE-1703K
 
-teamwork - Database
+1) About our PROJECT.
+Our project is about a football club. There we can make a coach, create a football club and add players there. You can also see the competition teams. For this project, we used asp .net mvc 5, databases, as well as various html, css, jquery and etc.
 
-We  didn’t get the Many-to-Many connection, there was a mistake in the code and we hastened to create controllers
-and migrate. And when we found the error, we were not able to remove the old controllers and migration. And they decided to 
-make a new project again, but we don’t have time so you can check this code. We will change the names of Models to the next
-part.
-<br>
-
+2) Validation
