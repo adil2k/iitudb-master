@@ -7,3 +7,6 @@ Our project is about a football club. There we can make a coach, create a footba
 
 2) Validation
 ![Image alt](https://github.com/adil2k/iitudb-master/blob/master/remote.jpg)
+![Image alt](https://github.com/adil2k/iitudb-master/blob/master/IValidatableObject.jpg)
+![Image alt](https://github.com/adil2k/iitudb-master/blob/master/IValid.jpg)
+![Image alt](https://github.com/adil2k/iitudb-master/blob/master/custom.jpg)
