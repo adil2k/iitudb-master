@@ -22,7 +22,9 @@ namespace iitu_db.Controllers
         [Authorize(Roles = "admin")]
         public IActionResult About()
         {
+
             return Content("Вход только для администратора");
+
         }
 
         private readonly ILogger<HomeController> _logger;
